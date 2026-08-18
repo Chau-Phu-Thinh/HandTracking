@@ -2,4 +2,4 @@
 
 ## Overall
 
-Control UAV with hands
+Control drone with hands
