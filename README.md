@@ -1,5 +1,5 @@
-# Hand Tracking
+# BungeeGum
 
 ## Overall
 
-Control drone with hands
+Inspired by Hisoka from Hunter x Hunter, Bungee Gum in real life
